@@ -1,3 +1,4 @@
+#SIMPLE GUI CALCULATOR
 import tkinter as tk
 
 def button_click(number):
